@@ -16,8 +16,8 @@
 title: Leon's musings
 email: leonvandyk@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The blog of Leon Van Dyk, a Capetonian (and PhilHellene)
-  I hope to try my hand a writing decent commentary about life in general..."
+  The blog of Leon Van Dyk, a Capetonian, husband and father of 2 sons, software developer, lover of math, physics, history (and a PhilHellene)
+  I hope to try my hand at writing decent commentary about life in general...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: leon_vdyk
